@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381757464771",
+    "firebase_url": "https://watani-7bb5c.firebaseio.com",
+    "project_id": "watani-7bb5c",
+    "storage_bucket": "watani-7bb5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381757464771:android:dd93bc998756cae1",
+        "android_client_info": {
+          "package_name": "com.e.watani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381757464771-ouv6va2upml83a2ios8qrd97d2bh0h1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.watani",
+            "certificate_hash": "72109bd307d763aba37310c0b3c24916397bedef"
+          }
+        },
+        {
+          "client_id": "381757464771-43gv3bg262t7tcpse2qaal06tmtcsiae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfz0NP0Q9MgE7xRV7GdTzzQ4TaH2vmV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381757464771-43gv3bg262t7tcpse2qaal06tmtcsiae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

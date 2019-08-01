@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16C040</color>
+    <color name="colorPrimaryDark">#16C040</color>
+    <color name="colorAccent">#16C040</color>
+
+
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="darkgray">#6c6c6c</color>
+
+    <color name="colorBackground">#f9f9fa</color>
+    <color name="colorTextSubtitle">#4e4e4e</color>
+    <color name="colorTextTitle">#262626</color>
+
+
+    <color name="gradient_start_color">#ffc50d</color>
+    <color name="gradient_end_color">#d8b348</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+
+</resources>
